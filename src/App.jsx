@@ -1,4 +1,4 @@
-import Footer from "./components/footer";
+import Footer from "./components/Footer";
 import { useState } from "react";
 import Calculator from "./components/Calculator";
 import Header from "./components/Header";
