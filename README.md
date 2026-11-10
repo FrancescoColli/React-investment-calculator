@@ -6,6 +6,13 @@ A React-based investment compound calculator
 [Try the app]
 https://react-investment-calculator-liard-six.vercel.app/
 
+## Technologies
+
+- React
+- JavaScript
+- CSS
+- Vite
+  
 ## Credits
 
 Created by Francesco while learning React.
